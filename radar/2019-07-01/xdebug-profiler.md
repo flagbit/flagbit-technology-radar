@@ -1,5 +1,5 @@
 ---
-title:      "Blackfire"
+title:      "Xdebug Profiler"
 ring:       assess
 quadrant:   tools
 

@@ -1,5 +1,5 @@
 ---
-title:      "Chef"
+title:      "Puppet"
 ring:       hold
 quadrant:   tools
 
